@@ -1,0 +1,27 @@
+@media(min-width:320px){
+	.fb-card{
+	width:80%;
+	}
+	.fb-card input{
+	width:280px;
+	height:50px;
+	}
+}
+@media(min-width:760px){
+	.fb-card {
+	width:40%;
+	}
+	.fb-card input{
+	width:300px;
+	height:50px;
+	}
+}
+@media(min-width:960px){
+	.fb-card{
+	width:29%;
+	}
+	.fb-card input{
+	width:350px;
+	height:50px;
+	}
+}
